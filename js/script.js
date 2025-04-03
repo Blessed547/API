@@ -1,8 +1,8 @@
 // Student information display
 document.addEventListener('DOMContentLoaded', function() {
     // TODO: Replace with your actual student ID and name
-    const studentId = "200597146";
-    const studentName = "Lovepreet Singh Lovepreet Singh";
+    const studentId = "200601285";
+    const studentName = "Jasmin kaur";
     
     const studentInfoElement = document.getElementById('student-info');
     studentInfoElement.innerHTML = `<p>Student ID: ${studentId} | Name: ${studentName}</p>`;
